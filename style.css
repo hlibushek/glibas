@@ -1,1 +1,8 @@
-
+h1 {
+    background-color: limegreen;
+    padding: 10px;
+    color: aliceblue;
+}
+body {
+    font-family: sans-serif;
+}
