@@ -12,4 +12,11 @@ nav {
     padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
+}header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
 }
+
